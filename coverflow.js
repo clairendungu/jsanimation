@@ -109,6 +109,6 @@ coverflowimages({
 						['passport.jpg', 'josie.jpg'],
 						['me3.jpg', 'josie.jpg'],
 						['me4.jpg', 'hayden.jpg', 'Hayden Panettiere is a native of New York, and first appeared in a commercial at the age of 11 months.'],
-						['me4.jpg', 'ashley.jpg', 'Ashley was born in Granada Hills, California. She is the daughter of Naomi Judd, a country music singer and motivational speaker'] // <-- no comma after last image
+						['me5.jpg', 'ashley.jpg', 'Ashley was born in Granada Hills, California. She is the daughter of Naomi Judd, a country music singer and motivational speaker'] // <-- no comma after last image
 					] // <-- no comma after last option
 })
